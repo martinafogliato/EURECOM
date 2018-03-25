@@ -1,3 +1,6 @@
 [submodule "CompMeth"]
 	path = CompMeth
 	url = git@github.com:martinafogliato/CompMeth.git
+[submodule "PicchioOS"]
+	path = PicchioOS
+	url = git@github.com:martinafogliato/PicchioOS.git
