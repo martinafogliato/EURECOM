@@ -1,0 +1,3 @@
+[submodule "CompMeth"]
+	path = CompMeth
+	url = git@github.com:martinafogliato/CompMeth.git
