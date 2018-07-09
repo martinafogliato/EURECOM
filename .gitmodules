@@ -4,3 +4,9 @@
 [submodule "PicchioOS"]
 	path = PicchioOS
 	url = git@github.com:martinafogliato/PicchioOS.git
+[submodule "STA8090FGBD-Jtag-memory-dump"]
+	path = STA8090FGBD-Jtag-memory-dump
+	url = git@github.com:martinafogliato/STA8090FGBD-Jtag-memory-dump.git
+[submodule "SHA256-Hw-Accelerator"]
+	path = SHA256-Hw-Accelerator
+	url = git@github.com:martinafogliato/Sha256_Hw_Accelerator.git
